@@ -1,12 +1,13 @@
 body {
     background-color: #121113;
     font-family: "Teko", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 200;
-    font-style: normal;
-    text-align: center;
     color: #F7F7F2;
-    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 
 #container {
